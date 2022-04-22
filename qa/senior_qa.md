@@ -24,5 +24,5 @@ Después de haber definido los casos de prueba de aceptación mínimos que neces
         * Documenta cada uno de los métodos.
         * Ejecuta los tests de Selenium en BrowserStack.
     * Adjunta las captura de los resultados del análisis.
-    * Cuando termines el proyecto, súbelo a Github/ y comparte el repositorio.
+    * Cuando termines el proyecto, súbelo a Github y comparte el repositorio.
     * Crear un fichero README.MD en el repositorio explicando cómo lanzar los test y la estructura del proyecto.
