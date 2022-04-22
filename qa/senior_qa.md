@@ -22,6 +22,7 @@ Después de haber definido los casos de prueba de aceptación mínimos que neces
     * Desarrolla los 5 test de aceptación que has definido anteriormente de forma automática, no te olvides de:
         * Si haces una comprobación (check) utilizar Assert con un mensaje explicativo.
         * Documenta cada uno de los métodos.
+        * Ejecuta los tests de Selenium en BrowserStack.
         * Cierra el navegador cuando termine cada caso de prueba.
     * Adjunta las captura de los resultados del análisis.
     * Cuando termines el proyecto, súbelo a Github/ y comparte el repositorio.
