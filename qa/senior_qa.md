@@ -1,4 +1,4 @@
-# prueba Técnica Senior QA
+# Prueba Técnica Senior QA
 
 Visita la web de acreditta.com y crea los 5 casos de prueba de aceptación más importantes que harías en la web para asegurarte de que la subida a producción de la nueva versión ha sido correcta.
 
